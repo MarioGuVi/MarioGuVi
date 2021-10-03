@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MarioGuVi
+- ⚗️⚛️🧪 I'm a Chemical and Process Engineer
 - 👀 I’m interested in data analysis and continuous improvement
 - 🌱 I’m currently learning Python and R
 
